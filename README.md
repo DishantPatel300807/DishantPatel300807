@@ -1,9 +1,11 @@
 # Hi there, I'm Dishant! 👋
 
 <!-- Interactive Typing Animation -->
+<p align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&width=435&lines=UI%2FUX+Enthusiast;Front-End+Developer;CSE+Student+at+CHARUSAT" alt="Typing SVG" />
 </a>
+</p>
 
 ### 👨‍💻 About Me
 * 🎓 CSE student at CHARUSAT (CSPIT) passionate about UI/UX design.
