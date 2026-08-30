@@ -29,5 +29,5 @@
 </p>
 
 ### 📫 Let's Connect
-* **LinkedIn:** [Link to your profile]
-* **Email:** [Your email address]
+* **LinkedIn: https://www.linkedin.com/in/dishant-patel-251364422/**
+* **Email: dishantpatel2007308@gmail.com**
